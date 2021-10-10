@@ -28,3 +28,9 @@ e usando o comando 'npm i' com o '-D' no final instale as dependencia:
   
   Em ambas as pastas de backend e client rodar o comando npm start para inicar o projeto.
   
+#### 4 - Usuarios pré criados
+
+123, senha 123 - normal
+
+admn, senha admin - adminstrador.
+  
