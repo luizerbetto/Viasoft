@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.NavContainer {
+    width: 100vw;
+    height: 100px;
+    background: red;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    font-size: 5vh;
+}
+.NavContainer a {
+    color: white;
+}
+
+.registerFeedBack{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.feedList{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.feedList button{
+    margin: 5px;
+    width: 10vw;
+}
+
+.registerFeedList{
+    width: 100%;
+    border:1px solid black;
+    padding: 1px;
+}
+
+.registerFeedList th, td{
+    border:1px solid black;
+    padding: 10px;
+}
